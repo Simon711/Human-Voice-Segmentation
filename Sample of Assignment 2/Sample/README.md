@@ -9,7 +9,7 @@ Description of some important files
 2.  Energy.m 
     The energy function. This file is called from file Algorithm1.m. The function receive Y, the signal and P the window size. It will return the energy per frame
 
-3. Algorithm1.m
+3. Algorithm1.m //Algorithm2.m is the enhanced and solved the problem in Algorithm1.m
     The file is the segmentation algorithm used in the class example. This will be the benchmark algorithm. This function is called from script2.m. 
     The function receive Y, the signal, Thres  which is the  threshold value as deciding factor to select segentation point and win, the window size. 
     It will return the list of automatic segmentation and number of auto segmentation points
