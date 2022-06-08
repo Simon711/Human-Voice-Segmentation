@@ -1,0 +1,19 @@
+ Information on all 	Time Tolerence = 0.02	Threshold = 1.40	Win Size = 256
+
+	Rate-->  	P(M)	P(O)	P(I)
+	Pattern 1	0.38 	0.62 	0.67
+	Pattern 2	0.25 	0.75 	0.67
+	Pattern 3	0.62 	0.38 	0.50
+	Pattern 4	0.75 	0.25 	0.45
+	Pattern 5	0.50 	0.50 	0.43
+	Pattern 6	0.38 	0.62 	0.40
+	Pattern 7	0.38 	0.62 	0.75
+	Pattern 8	0.38 	0.62 	0.40
+	Pattern 9	0.25 	0.75 	0.75
+	Pattern 10	0.50 	0.50 	0.50
+
+
+Total P: 80 Total N: 81 Total M: 35
+Total Match Rate = 0.44
+Total Omission Rate = 0.56
+Total Insertion Rate = 0.57

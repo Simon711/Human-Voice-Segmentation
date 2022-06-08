@@ -1,0 +1,326 @@
+ Information on all 	Time Tolerence = 0.01	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.25 	0.75 	0.50
+	Pattern 2	0.25 	0.75 	0.67
+	Pattern 3	0.38 	0.63 	0.63
+	Pattern 4	0.13 	0.88 	0.86
+	Pattern 5	0.13 	0.88 	0.80
+	Pattern 6	0.25 	0.75 	0.67
+	Pattern 7	0.50 	0.50 	0.56
+	Pattern 8	0.38 	0.63 	0.25
+	Pattern 9	0.13 	0.88 	0.91
+	Pattern 10	0.13 	0.88 	0.90
+	Pattern 11	0.25 	0.75 	0.78
+	Pattern 12	0.38 	0.63 	0.50
+	Pattern 13	0.25 	0.75 	0.87
+	Pattern 14	0.38 	0.63 	0.50
+	Pattern 15	0.25 	0.75 	0.60
+	Pattern 16	0.38 	0.63 	0.63
+	Pattern 17	0.00 	1.00 	1.00
+	Pattern 18	0.25 	0.75 	0.67
+	Pattern 19	0.13 	0.88 	0.83
+	Pattern 20	0.38 	0.63 	0.63
+
+
+Total P: 160 Total N: 144 Total M: 41
+Total Match Rate = 0.26
+Total Omission Rate = 0.74
+Total Insertion Rate = 0.72
+
+ Information on all 	Time Tolerence = 0.02	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.25 	0.75 	0.67
+	Pattern 3	0.50 	0.50 	0.50
+	Pattern 4	0.50 	0.50 	0.43
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.63 	0.38 	0.55
+	Pattern 10	0.38 	0.63 	0.70
+	Pattern 11	0.50 	0.50 	0.56
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.75 	0.25 	0.60
+	Pattern 14	0.63 	0.38 	0.17
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.25 	0.75 	0.67
+	Pattern 19	0.50 	0.50 	0.33
+	Pattern 20	0.63 	0.38 	0.38
+
+
+Total P: 160 Total N: 144 Total M: 82
+Total Match Rate = 0.51
+Total Omission Rate = 0.49
+Total Insertion Rate = 0.43
+
+ Information on all 	Time Tolerence = 0.03	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.63 	0.38 	0.29
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.63 	0.38 	0.55
+	Pattern 10	0.38 	0.63 	0.70
+	Pattern 11	0.50 	0.50 	0.56
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.75 	0.25 	0.60
+	Pattern 14	0.63 	0.38 	0.17
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 89
+Total Match Rate = 0.56
+Total Omission Rate = 0.44
+Total Insertion Rate = 0.38
+
+ Information on all 	Time Tolerence = 0.04	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.63 	0.38 	0.55
+	Pattern 10	0.38 	0.63 	0.70
+	Pattern 11	0.50 	0.50 	0.56
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.63 	0.38 	0.17
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 91
+Total Match Rate = 0.57
+Total Omission Rate = 0.43
+Total Insertion Rate = 0.37
+
+ Information on all 	Time Tolerence = 0.05	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.63 	0.38 	0.55
+	Pattern 10	0.50 	0.50 	0.60
+	Pattern 11	0.50 	0.50 	0.56
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.63 	0.38 	0.17
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 92
+Total Match Rate = 0.57
+Total Omission Rate = 0.43
+Total Insertion Rate = 0.36
+
+ Information on all 	Time Tolerence = 0.06	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.63 	0.38 	0.55
+	Pattern 10	0.63 	0.38 	0.50
+	Pattern 11	0.63 	0.38 	0.44
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.75 	0.25 	0.00
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 95
+Total Match Rate = 0.59
+Total Omission Rate = 0.41
+Total Insertion Rate = 0.34
+
+ Information on all 	Time Tolerence = 0.07	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.50 	0.50 	0.00
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.75 	0.25 	0.45
+	Pattern 10	0.63 	0.38 	0.50
+	Pattern 11	0.63 	0.38 	0.44
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.75 	0.25 	0.00
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 96
+Total Match Rate = 0.60
+Total Omission Rate = 0.40
+Total Insertion Rate = 0.33
+
+ Information on all 	Time Tolerence = 0.08	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.63 	0.38 	-0.25
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.75 	0.25 	0.45
+	Pattern 10	0.63 	0.38 	0.50
+	Pattern 11	0.63 	0.38 	0.44
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.75 	0.25 	0.00
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.38 	0.63 	0.50
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 97
+Total Match Rate = 0.61
+Total Omission Rate = 0.39
+Total Insertion Rate = 0.33
+
+ Information on all 	Time Tolerence = 0.09	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.75 	0.25 	-0.50
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.75 	0.25 	0.45
+	Pattern 10	0.75 	0.25 	0.40
+	Pattern 11	0.63 	0.38 	0.44
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.75 	0.25 	0.00
+	Pattern 15	0.50 	0.50 	0.20
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.50 	0.50 	0.33
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 100
+Total Match Rate = 0.63
+Total Omission Rate = 0.38
+Total Insertion Rate = 0.31
+
+ Information on all 	Time Tolerence = 0.10	Threshold = 2.00	Win Size = 250
+
+	Pattern 1	0.75 	0.25 	-0.50
+	Pattern 2	0.50 	0.50 	0.33
+	Pattern 3	0.63 	0.38 	0.38
+	Pattern 4	0.75 	0.25 	0.14
+	Pattern 5	0.50 	0.50 	0.20
+	Pattern 6	0.63 	0.38 	0.17
+	Pattern 7	0.63 	0.38 	0.44
+	Pattern 8	0.50 	0.50 	0.00
+	Pattern 9	0.75 	0.25 	0.45
+	Pattern 10	0.75 	0.25 	0.40
+	Pattern 11	0.63 	0.38 	0.44
+	Pattern 12	0.50 	0.50 	0.33
+	Pattern 13	0.88 	0.13 	0.53
+	Pattern 14	0.75 	0.25 	0.00
+	Pattern 15	0.63 	0.38 	0.00
+	Pattern 16	0.50 	0.50 	0.50
+	Pattern 17	0.50 	0.50 	0.20
+	Pattern 18	0.50 	0.50 	0.33
+	Pattern 19	0.63 	0.38 	0.17
+	Pattern 20	0.75 	0.25 	0.25
+
+
+Total P: 160 Total N: 144 Total M: 101
+Total Match Rate = 0.63
+Total Omission Rate = 0.37
+Total Insertion Rate = 0.30
+
+
+ match  :
+0.2562
+0.5125
+0.5563
+0.5687
+0.5750
+0.5938
+0.6000
+0.6062
+0.6250
+0.6312
+
+ omission :
+0.7438
+0.4875
+0.4437
+0.4313
+0.4250
+0.4063
+0.4000
+0.3938
+0.3750
+0.3688
+
+ insertion :
+0.7153
+0.4306
+0.3819
+0.3681
+0.3611
+0.3403
+0.3333
+0.3264
+0.3056
+0.2986
